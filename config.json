@@ -1,0 +1,12 @@
+{
+    "name": "Test App Extra Content In Config",
+    "className": "TestAppExtraContentInConfig",
+    "javascript": [
+        "js/app.js",
+        "js/validation.js"
+    ],
+    "navigation": true,
+    "layout" : "Fixed",
+    "type" : "ext app",
+    "xtype" : "widget.fatconfig"
+}
