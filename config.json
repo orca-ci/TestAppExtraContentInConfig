@@ -1,5 +1,5 @@
 {
-    "name": "Test App Extra Content In Config",
+    "displayName": "Test App Extra Content In Config",
     "className": "TestAppExtraContentInConfig",
     "javascript": [
         "js/app.js",
